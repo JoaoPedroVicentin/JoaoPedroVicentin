@@ -8,9 +8,7 @@
 
 - 🔥 Desenvolvedor Front-End.
 
-- 💻 Experiência de 1,5 ano trabalhando como estagiário em desenvolvimento Front-End na [Fomenta Vale](https://www.fomentavale.com.br/).
-
-- 💻 Desde abril de 2023, desempenho o cargo de Desenvolvedor Front-End na [Hvex](https://hvex.com.br/).
+- 💻 3Atualmente, desempenho o cargo de Desenvolvedor Front-End na [Avenue]([https://hvex.com.br/](https://avenue.us/)).
 
 - 📖 Bacharelado em Ciência da Computação pela [FEMA](https://fema.edu.br/).
 
