@@ -8,7 +8,7 @@
 
 - 🔥 Desenvolvedor Front-End.
 
-- 💻 Atualmente, desempenho o cargo de Desenvolvedor Front-End na [Avenue]([https://hvex.com.br/](https://avenue.us/)).
+- 💻 Atualmente, desempenho o cargo de Desenvolvedor Front-End na [Avenue](https://avenue.us/).
 
 - 📖 Bacharelado em Ciência da Computação pela [FEMA](https://fema.edu.br/).
 
